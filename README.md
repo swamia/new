@@ -1,1 +1,2 @@
-# new
+# new file
+welcome to git <<>>
